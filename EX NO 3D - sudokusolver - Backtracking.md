@@ -1,5 +1,6 @@
 
 # EX 3D Sudoku solver - Backtracking.
+## Date: 25.08.26
 ## AIM:
 To write a Java program to solve a Sudoku puzzle by filling the empty cells.
 
@@ -19,8 +20,8 @@ In the main() method: Input the Sudoku grid from the user.
 7. End the program.
 
 ## Program:
-Developed by: V Mythili 
-Register Number:  212223040123
+### Developed by: V Mythili 
+### Register Number:  212223040123
 
 ```
 import java.util.Scanner;
